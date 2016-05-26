@@ -16,6 +16,9 @@ You can then access petclinic here: http://localhost:9966/petclinic/
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
 
 
+<a href="https://console.megamafrica.com" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA1.png" alt="petclinic button" />
+
 ## Database configuration
 
 In its default configuration, Petclinic uses an in-memory database (HSQLDB) which
