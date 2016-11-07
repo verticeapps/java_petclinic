@@ -10,14 +10,14 @@
 	./mvnw tomcat7:run
 ```
 
+<a href="http://docs.megam.io/overview/tour/" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="petclinic button" />
+
 You can then access petclinic here: http://localhost:9966/petclinic/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
 
-
-<a href="https://console.megamafrica.com" target="_blank">
-<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="petclinic button" />
 
 ## Database configuration
 
@@ -97,10 +97,10 @@ File -> Import -> Maven -> Existing Maven project
   <tr>
     <td>Dandelion-datatables</td>
     <td>
-      <a href="/src/main/webapp/WEB-INF/jsp/owners/ownersList.jsp">ownersList.jsp</a> 
-      <a href="/src/main/webapp/WEB-INF/jsp/vets/vetList.jsp">vetList.jsp</a> 
-      <a href="/src/main/webapp/WEB-INF/web.xml">web.xml</a> 
-      <a href="/src/main/resources/dandelion/datatables/datatables.properties">datatables.properties</a> 
+      <a href="/src/main/webapp/WEB-INF/jsp/owners/ownersList.jsp">ownersList.jsp</a>
+      <a href="/src/main/webapp/WEB-INF/jsp/vets/vetList.jsp">vetList.jsp</a>
+      <a href="/src/main/webapp/WEB-INF/web.xml">web.xml</a>
+      <a href="/src/main/resources/dandelion/datatables/datatables.properties">datatables.properties</a>
    </td>
   </tr>
   <tr>
@@ -214,7 +214,3 @@ Here is a list of them:
 The [issue tracker](https://github.com/spring-projects/spring-petclinic/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
 For pull requests, editor preferences are available in the [editor config](https://github.com/spring-projects/spring-petclinic/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
-
-
-
-
