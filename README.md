@@ -11,7 +11,7 @@
 ```
 
 <a href="http://docs.megam.io/overview/tour/" target="_blank">
-<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png" alt="petclinic button" />
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png" alt="wordpres button" />
 
 You can then access petclinic here: http://localhost:9966/petclinic/
 
